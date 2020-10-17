@@ -1,7 +1,7 @@
 //method overrind
 class gaurav
 {
-    void eat()
+    void eat() //Overriden
     {
         System.out.println("i am eating everything");
     }
@@ -13,7 +13,7 @@ class gaurav
 }
 class sujit extends gaurav
 {
-    void eat()
+    void eat() // Overriden
     {
         System.out.println("My favorite food is pizza");
     }
