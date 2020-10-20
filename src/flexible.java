@@ -1,5 +1,5 @@
 //how to define the data in java without using data types?
-//And how to find the differnt data types class
+//And how to find the differnt data types classes?
 public class flexible {
     public static void main(String[] args) {
         Object y;
